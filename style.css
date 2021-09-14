@@ -1,0 +1,41 @@
+ul{
+
+    background-color:rgb(100, 182,202);
+    list-style-type: none;
+    flex-grow: hidden;
+    margin-top: 10px;
+    height: 80px;
+
+}
+li{
+    float: right;
+    top: 0px;
+    margin: 15px;
+    margin-top: 10px;
+}
+
+
+.footer{
+    background-color:rgb(100, 182, 202);
+    height: 80px;
+
+}
+
+.container{
+    background-color:white;
+    height: 765px;
+}
+#logo{
+    width: 10%;
+    height: 100px;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: url('images/codou.jpg');
+    background-size: cover;
+    color: #fff;
+    padding: 40px;
+
+}
